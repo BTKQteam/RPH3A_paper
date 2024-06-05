@@ -1,1 +1,1 @@
-Above is the code for AD blood analysis. For AD brain tissue microarray datasets, we recommend simply changing the GSE numbers according to each dataset while maintaining the same workflow for DEG analysis and GSEA
+Above is the code for AD blood (microarray) and AD-Entorhinal cortex (singlecelll) analysis. For AD brain tissue microarray datasets and other regions singlecell datasets, we recommend simply changing the GSE numbers according to each dataset while maintaining the same workflow for DEG analysis and GSEA
